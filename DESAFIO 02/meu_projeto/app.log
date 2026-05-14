@@ -1,0 +1,12 @@
+2026-05-14 22:35:31,017 - INFO - __main__ - Iniciando cálculo
+2026-05-14 22:35:31,017 - INFO - __main__ - Resultado multiplicar(4, 5): 20
+2026-05-14 22:35:31,017 - INFO - __main__ - Resultado somar(10, 7): 17
+2026-05-14 22:35:31,017 - INFO - __main__ - Resultado subtrair(15, 6): 9
+2026-05-14 22:35:31,017 - INFO - __main__ - Resultado dividir(20, 4): 5.0
+2026-05-14 22:35:31,018 - INFO - __main__ - Cálculos finalizados com sucesso
+2026-05-14 22:35:58,844 - INFO - __main__ - Iniciando cálculo
+2026-05-14 22:35:58,844 - INFO - __main__ - Resultado multiplicar(4, 5): 20
+2026-05-14 22:35:58,844 - INFO - __main__ - Resultado somar(10, 7): 17
+2026-05-14 22:35:58,845 - INFO - __main__ - Resultado subtrair(15, 6): 9
+2026-05-14 22:35:58,845 - INFO - __main__ - Resultado dividir(20, 4): 5.0
+2026-05-14 22:35:58,845 - INFO - __main__ - Cálculos finalizados com sucesso
