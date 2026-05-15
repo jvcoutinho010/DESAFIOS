@@ -1,9 +1,0 @@
-2026-05-14 23:05:14,184 - INFO - root - Calculando cubo de 3
-2026-05-14 23:05:14,184 - INFO - utils.math_utils - Função 'calcular_cubo' executada em 0.000109 segundos.
-2026-05-14 23:05:14,184 - INFO - root - Resultado: 27
-2026-05-14 23:05:14,184 - INFO - root - Calculando cubo de 5
-2026-05-14 23:05:14,184 - INFO - utils.math_utils - Função 'calcular_cubo' executada em 0.000029 segundos.
-2026-05-14 23:05:14,184 - INFO - root - Resultado: 125
-2026-05-14 23:05:14,184 - INFO - root - Calculando cubo de -2
-2026-05-14 23:05:14,184 - INFO - utils.math_utils - Função 'calcular_cubo' executada em 0.000031 segundos.
-2026-05-14 23:05:14,184 - INFO - root - Resultado: -8
